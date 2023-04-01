@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Reinier van der Windt
+  description: An Ansible Memcached Role
+  license: BSD
+  min_ansible_version: 6.2
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+
+dependencies: []
