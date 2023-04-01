@@ -3,6 +3,7 @@ galaxy_info:
   description: An Ansible Memcached Role
   license: BSD
   min_ansible_version: 6.2
+  role_name: memcached
 
   platforms:
     - name: Ubuntu
